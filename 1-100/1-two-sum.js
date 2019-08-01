@@ -46,7 +46,7 @@ var twoSum = function (nums, target) {
 
 // two pointer method with missing edge cases
 
-var twoSum_sort = function (nums, target) {
+var twoSum = function (nums, target) {
   const clone = [...nums];
   nums.sort((a, b) => a - b);
 
