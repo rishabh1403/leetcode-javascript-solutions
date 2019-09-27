@@ -1,3 +1,11 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/palindrome-number/
+blog for this code :- https://rishabh1403.com/leetcode-solution-of-palindrome-number-in-javascript
+*/
+
+
+
 // string based implementation
 
 var isPalindrome = function (x) {

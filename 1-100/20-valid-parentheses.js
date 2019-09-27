@@ -1,3 +1,9 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/valid-parentheses/
+blog for this code :- https://rishabh1403.com/leetcode-solution-of-valid-parentheses-in-javascript
+*/
+
 
 var isValid = function (s) {
 

@@ -1,3 +1,10 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/reverse-integer/
+blog for this code :- https://rishabh1403.com/leetcode-solution-of-reverse-integer-in-javascript
+*/
+
+
 // string based method
 
 var reverse = function (x) {

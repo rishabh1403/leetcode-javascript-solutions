@@ -9,3 +9,6 @@ Solutions of all the questions from Leetcode in JavaScript.
 # Questions
 
 - 1.Two Sum - [Question](https://leetcode.com/problems/two-sum/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/1-two-sum.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-two-sum-in-javascript)
+- 7.Reverse Integer - [Question](https://leetcode.com/problems/reverse-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/7-reverse-integer.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-reverse-integer-in-javascript)
+- 9.Palindrome Number - [Question](https://leetcode.com/problems/palindrome-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/9-palindrome-number.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-palindrome-number-in-javascript)
+- 20.Valid Parentheses - [Question](https://leetcode.com/problems/valid-parentheses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/20-valid-parentheses.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-valid-parentheses-in-javascript)
