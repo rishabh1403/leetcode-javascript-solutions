@@ -2,6 +2,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 blog for this code :- https://rishabh1403.com/leetcode-solution-of-two-sum-ii-in-javascript
+youtube video :- https://www.youtube.com/watch?v=MjxN8HIzIRc
 */
 
 

@@ -2,6 +2,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/two-sum/
 blog for this code :- https://rishabh1403.com/leetcode-solution-of-two-sum-in-javascript
+youtube video :- https://www.youtube.com/watch?v=qqC9m93ofwI
 */
 
 
