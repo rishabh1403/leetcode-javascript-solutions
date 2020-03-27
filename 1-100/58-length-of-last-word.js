@@ -1,3 +1,10 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/length-of-last-word/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-length-of-last-word
+youtube video :- https://youtu.be/2PQ4vtnLfnw
+*/
+
 // library methods
 
 var lengthOfLastWord = function (s) {
