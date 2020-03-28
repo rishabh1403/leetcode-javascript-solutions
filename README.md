@@ -20,6 +20,8 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 58.Length of Last Word - [Question](https://leetcode.com/problems/length-of-last-word/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/58-length-of-last-word.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-length-of-last-word) | [Youtube Video](https://youtu.be/2PQ4vtnLfnw)
 
+- 125.Valid Palindrome - [Question](https://leetcode.com/problems/valid-palindrome/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/125-valid-palindrome.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-palindrome) | [Youtube Video](https://youtu.be/zqQRjBbwRew)
+
 - 167.Two Sum-II - [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/167-two-sum-ii.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-two-sum-ii-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=MjxN8HIzIRc)
 
 - 242.Valid Anagram - [Question](https://leetcode.com/problems/valid-anagram/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/242-valid-anagram.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-anagram) | [Youtube Video](https://youtu.be/7z25qqUCOUE)

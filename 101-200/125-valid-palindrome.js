@@ -1,8 +1,8 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/valid-palindrome/
-blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-search-insert-position
-youtube video :- https://youtu.be/l2XPvyTlC6c
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-palindrome
+youtube video :- https://youtu.be/zqQRjBbwRew
 */
 
 var isPalindrome = function (s) {
