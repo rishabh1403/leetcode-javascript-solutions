@@ -1,8 +1,10 @@
 /**
- * @param {string} haystack
- * @param {string} needle
- * @return {number}
+ Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/implement-strstr/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-implement-strstr
+youtube video :- https://youtu.be/pKa_2pLb3Rw
  */
+
 var strStr = function (haystack, needle) {
   if (needle.length === 0) {
     return 0;
@@ -14,7 +16,7 @@ var strStr = function (haystack, needle) {
   for (let i = 0; i <= haystackLength - needleLength; i++) {
     let flag = true;
 
-    for (let j = i, k = 0; j < needleLength + i, k < needleLength; j++ , k++) {
+    for (let j = i, k = 0; j < needleLength + i, k < needleLength; j++, k++) {
       if (haystack[j] !== needle[k]) {
         flag = false;
         break;
@@ -48,5 +50,6 @@ var strStr = function (haystack, needle) {
 };
 
 //////////////////////////////
-KMP 
-Robin karp
+// Other Algos that can be used
+// KMP 
+// Robin karp

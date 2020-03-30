@@ -16,6 +16,8 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 20.Valid Parentheses - [Question](https://leetcode.com/problems/valid-parentheses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/20-valid-parentheses.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-valid-parentheses-in-javascript)
 
+- 28.Implement strStr() - [Question](https://leetcode.com/problems/implement-strstr/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/28-implement-strstr.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-implement-strstr) | [Youtube Video](https://youtu.be/pKa_2pLb3Rw)
+
 - 35.Search Insert Position - [Question](https://leetcode.com/problems/search-insert-position/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/35-search-insert-position.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-search-insert-position) | [Youtube Video](https://youtu.be/l2XPvyTlC6c)
 
 - 58.Length of Last Word - [Question](https://leetcode.com/problems/length-of-last-word/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/58-length-of-last-word.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-length-of-last-word) | [Youtube Video](https://youtu.be/2PQ4vtnLfnw)
