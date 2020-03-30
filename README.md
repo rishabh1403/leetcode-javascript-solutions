@@ -14,7 +14,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 9.Palindrome Number - [Question](https://leetcode.com/problems/palindrome-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/9-palindrome-number.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-palindrome-number-in-javascript) | [Youtube Video](https://youtu.be/7lCkkX3UAvU)
 
-- 20.Valid Parentheses - [Question](https://leetcode.com/problems/valid-parentheses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/20-valid-parentheses.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-valid-parentheses-in-javascript)
+- 20.Valid Parentheses - [Question](https://leetcode.com/problems/valid-parentheses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/20-valid-parentheses.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2019/09/leetcode-solution-of-valid-parentheses-in-javascript) | [Youtube Video](https://youtu.be/OuRH74PiPas)
 
 - 28.Implement strStr() - [Question](https://leetcode.com/problems/implement-strstr/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/28-implement-strstr.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-implement-strstr) | [Youtube Video](https://youtu.be/pKa_2pLb3Rw)
 

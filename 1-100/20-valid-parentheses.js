@@ -1,7 +1,9 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/valid-parentheses/
-blog for this code :- https://rishabh1403.com/leetcode-solution-of-valid-parentheses-in-javascript
+blog for this code :-
+https://rishabh1403.com/posts/coding/leetcode/2019/09/leetcode-solution-of-valid-parentheses-in-javascript
+youtube video :- https://youtu.be/OuRH74PiPas
 */
 
 
