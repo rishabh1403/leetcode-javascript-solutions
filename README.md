@@ -26,9 +26,9 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 167.Two Sum-II - [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/167-two-sum-ii.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-two-sum-ii-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=MjxN8HIzIRc)
 
-- 217.Contains Duplicate - [Question](https://leetcode.com/problems/contains-duplicate/) | [Source Code]() | [Blog]() | [Youtube Video]()
+- 217.Contains Duplicate - [Question](https://leetcode.com/problems/contains-duplicate/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/217-contains-duplicate.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate) | [Youtube Video](https://youtu.be/cuR5uyV8snc)
 
-- 219.Contains Duplicate II - [Question](https://leetcode.com/problems/contains-duplicate-ii/) | [Source Code]() | [Blog]() | [Youtube Video]()
+- 219.Contains Duplicate II - [Question](https://leetcode.com/problems/contains-duplicate-ii/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/219-contains-duplicate-ii.js) | [Blog]() | [Youtube Video]()
 
 - 242.Valid Anagram - [Question](https://leetcode.com/problems/valid-anagram/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/242-valid-anagram.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-anagram) | [Youtube Video](https://youtu.be/7z25qqUCOUE)
 
