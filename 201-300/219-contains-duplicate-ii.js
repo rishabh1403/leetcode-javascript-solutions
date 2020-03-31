@@ -1,8 +1,8 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/contains-duplicate-ii/
-blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-anagram
-youtube video :- https://youtu.be/7z25qqUCOUE
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate-ii
+youtube video :- https://youtu.be/O4MF2wBOrTM
 */
 
 

@@ -28,7 +28,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 217.Contains Duplicate - [Question](https://leetcode.com/problems/contains-duplicate/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/217-contains-duplicate.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate) | [Youtube Video](https://youtu.be/cuR5uyV8snc)
 
-- 219.Contains Duplicate II - [Question](https://leetcode.com/problems/contains-duplicate-ii/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/219-contains-duplicate-ii.js) | [Blog]() | [Youtube Video]()
+- 219.Contains Duplicate II - [Question](https://leetcode.com/problems/contains-duplicate-ii/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/219-contains-duplicate-ii.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate-ii) | [Youtube Video](https://youtu.be/O4MF2wBOrTM)
 
 - 242.Valid Anagram - [Question](https://leetcode.com/problems/valid-anagram/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/242-valid-anagram.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-anagram) | [Youtube Video](https://youtu.be/7z25qqUCOUE)
 
