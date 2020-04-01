@@ -34,6 +34,10 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 268.Missing Number - [Question](https://leetcode.com/problems/missing-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/268-missing-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-missing-number) | [Youtube Video](https://youtu.be/I6AUMvi13fc)
 
+- 344.Reverse String - [Question](https://leetcode.com/problems/reverse-string/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/268-missing-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-reverse-string) | [Youtube Video]()
+
+- 509.Fibonacci Number - [Question](https://leetcode.com/problems/fibonacci-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/268-missing-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-fibonacci-number) | [Youtube Video]()
+
 - 709.To Lower Case - [Question](https://leetcode.com/problems/to-lower-case/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/701-800/709-to-lower-case.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-to-lower-case) | [Youtube Video](https://youtu.be/jFi7-YgIXJQ)
 
 - 771.Jewels and Stones - [Question](https://leetcode.com/problems/jewels-and-stones/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/701-800/771-jewels-and-stones.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-jewels-and-stones) | [Youtube Video](https://youtu.be/cNVJZF5UT1w)
