@@ -2,7 +2,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/fibonacci-number/
 blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-fibonacci-number
-youtube video :- https://youtu.be/I6AUMvi13fc
+youtube video :- https://youtu.be/iyyhQfO_KKY
 */
 
 
