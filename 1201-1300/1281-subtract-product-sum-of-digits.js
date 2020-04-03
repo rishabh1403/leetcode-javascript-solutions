@@ -1,8 +1,8 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
-blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-defang-ip-address
-youtube video :- https://youtu.be/s_CepLCQHNY
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-subtract-product-sum-of-digits-of-number
+youtube video :- https://youtu.be/BL6VoKQqlmM
 */
 
 var subtractProductAndSum = function (n) {

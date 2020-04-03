@@ -46,7 +46,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 867.Transpose Matrix - [Question](https://leetcode.com/problems/transpose-matrix/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/801-900/867-transpose-matrix.js) | [Blog]() | [Youtube Video]()
 
-- 929.Unique Email Addresses - [Question](https://leetcode.com/problems/unique-email-addresses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/901-1000/929-unique-email-address.js) | [Blog]() | [Youtube Video]()
+- 929.Unique Email Addresses - [Question](https://leetcode.com/problems/unique-email-addresses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/901-1000/929-unique-email-address.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-unique-email-address) | [Youtube Video](https://youtu.be/X93pmKET_FY)
 
 - 1108.Defanging an IP Address - [Question](https://leetcode.com/problems/defanging-an-ip-address/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1101-1200/1108-defang-ip-address.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-defang-ip-address) | [Youtube Video](https://youtu.be/s_CepLCQHNY)
 
@@ -54,7 +54,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 1252.Cells with Odd Values in a Matrix - [Question](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1252-cells-with-odd-values.js) | [Blog]() | [Youtube Video]()
 
-- 1281.Subtract the Product and Sum of Digits of an Integer - [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1281-subtract-product-sum-of-digits.js) | [Blog]() | [Youtube Video]()
+- 1281.Subtract the Product and Sum of Digits of an Integer - [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1281-subtract-product-sum-of-digits.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-subtract-product-sum-of-digits-of-number) | [Youtube Video](https://youtu.be/BL6VoKQqlmM)
 
 - 1342.Number of Steps to Reduce a Number to Zero - [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1342-reduce-numer-to-zero.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-number-of-steps-to-reduce-a-number-to-zero) | [Youtube Video](https://www.youtube.com/watch?v=sQYhrMf1VMc)
 

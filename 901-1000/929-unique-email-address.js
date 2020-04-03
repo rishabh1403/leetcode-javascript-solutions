@@ -1,8 +1,8 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/unique-email-addresses/
-blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-defang-ip-address
-youtube video :- https://youtu.be/s_CepLCQHNY
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-unique-email-address
+youtube video :- https://youtu.be/X93pmKET_FY
 */
 
 var numUniqueEmails = function (emails) {
