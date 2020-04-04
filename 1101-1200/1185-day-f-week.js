@@ -1,7 +1,7 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/day-of-the-week/
-blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-defang-ip-address
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-day-of-week
 youtube video :- https://youtu.be/s_CepLCQHNY
 */
 
