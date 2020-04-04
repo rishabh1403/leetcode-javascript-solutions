@@ -2,7 +2,7 @@
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-cells-with-odd-values-in-a-matrix
-youtube video :- https://youtu.be/s_CepLCQHNY
+youtube video :- https://youtu.be/PfIdfEH2qMY
 */
 
 var oddCells = function (n, m, indices) {

@@ -50,9 +50,9 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 1108.Defanging an IP Address - [Question](https://leetcode.com/problems/defanging-an-ip-address/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1101-1200/1108-defang-ip-address.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-defang-ip-address) | [Youtube Video](https://youtu.be/s_CepLCQHNY)
 
-- 1185.Day of the Week - [Question](https://leetcode.com/problems/day-of-the-week/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1101-1200/1185-day-f-week.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-day-of-week) | [Youtube Video]()
+- 1185.Day of the Week - [Question](https://leetcode.com/problems/day-of-the-week/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1101-1200/1185-day-f-week.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-day-of-week) | [Youtube Video](https://youtu.be/LiJ9H7I6AU0)
 
-- 1252.Cells with Odd Values in a Matrix - [Question](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1252-cells-with-odd-values.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-cells-with-odd-values-in-a-matrix) | [Youtube Video]()
+- 1252.Cells with Odd Values in a Matrix - [Question](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1252-cells-with-odd-values.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-cells-with-odd-values-in-a-matrix) | [Youtube Video](https://youtu.be/PfIdfEH2qMY)
 
 - 1281.Subtract the Product and Sum of Digits of an Integer - [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1281-subtract-product-sum-of-digits.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-subtract-product-sum-of-digits-of-number) | [Youtube Video](https://youtu.be/BL6VoKQqlmM)
 
