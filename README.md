@@ -26,7 +26,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 167.Two Sum-II - [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/167-two-sum-ii.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-two-sum-ii-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=MjxN8HIzIRc)
 
-- 169.Majority Element - [Question](https://leetcode.com/problems/majority-element/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/169-majority-element.js) | [Blog]() | [Youtube Video]()
+- 169.Majority Element - [Question](https://leetcode.com/problems/majority-element/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/169-majority-element.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-majority-element) | [Youtube Video](https://youtu.be/p0vvs4Gq8qY)
 
 - 217.Contains Duplicate - [Question](https://leetcode.com/problems/contains-duplicate/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/217-contains-duplicate.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate) | [Youtube Video](https://youtu.be/cuR5uyV8snc)
 
@@ -44,7 +44,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 771.Jewels and Stones - [Question](https://leetcode.com/problems/jewels-and-stones/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/701-800/771-jewels-and-stones.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-jewels-and-stones) | [Youtube Video](https://youtu.be/cNVJZF5UT1w)
 
-- 867.Transpose Matrix - [Question](https://leetcode.com/problems/transpose-matrix/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/801-900/867-transpose-matrix.js) | [Blog]() | [Youtube Video]()
+- 867.Transpose Matrix - [Question](https://leetcode.com/problems/transpose-matrix/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/801-900/867-transpose-matrix.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-transpose-matrix) | [Youtube Video](https://youtu.be/cMnPxDJlFIc)
 
 - 929.Unique Email Addresses - [Question](https://leetcode.com/problems/unique-email-addresses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/901-1000/929-unique-email-address.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-unique-email-address) | [Youtube Video](https://youtu.be/X93pmKET_FY)
 
