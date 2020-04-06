@@ -56,6 +56,8 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 1281.Subtract the Product and Sum of Digits of an Integer - [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1281-subtract-product-sum-of-digits.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-subtract-product-sum-of-digits-of-number) | [Youtube Video](https://youtu.be/BL6VoKQqlmM)
 
+- 1313.Decompress Run-Length Encoded List - [Question]() | [Source Code]() | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-subtract-product-sum-of-digits-of-number) | [Youtube Video]()
+
 - 1342.Number of Steps to Reduce a Number to Zero - [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1342-reduce-numer-to-zero.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-number-of-steps-to-reduce-a-number-to-zero) | [Youtube Video](https://www.youtube.com/watch?v=sQYhrMf1VMc)
 
 - 1365.How Many Numbers Are Smaller Than the Current Number - [Question](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1365-how-many-numbers-smaller-than-current-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-how-many-numbers-smaller-than-current-number) | [Youtube Video](https://youtu.be/a2RWy9kqOhs)
