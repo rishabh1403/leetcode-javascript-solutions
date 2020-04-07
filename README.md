@@ -56,6 +56,8 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 1281.Subtract the Product and Sum of Digits of an Integer - [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1201-1300/1281-subtract-product-sum-of-digits.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-subtract-product-sum-of-digits-of-number) | [Youtube Video](https://youtu.be/BL6VoKQqlmM)
 
+- 1295.Find Numbers with Even Number of Digits - [Question](https://leetcode.com/problems/find-numbers-with-even-number-of-digits//) | [Source Code]() | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-find-numbers-with-even-number-of-digits) | [Youtube Video](https://youtu.be/p9LaMHYY1R0)
+
 - 1313.Decompress Run-Length Encoded List - [Question](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1313-decompress-run-length-encoded-list.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-decompress-run-length-encoded-list) | [Youtube Video](https://youtu.be/Ds5zZNOk89U)
 
 - 1342.Number of Steps to Reduce a Number to Zero - [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1342-reduce-numer-to-zero.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-number-of-steps-to-reduce-a-number-to-zero) | [Youtube Video](https://www.youtube.com/watch?v=sQYhrMf1VMc)
