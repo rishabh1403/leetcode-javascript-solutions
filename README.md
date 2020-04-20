@@ -8,11 +8,11 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 # Questions
 
-- 1.Two Sum - [Question](https://leetcode.com/problems/two-sum/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/1-two-sum.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-two-sum-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=qqC9m93ofwI)
+- 1.Two Sum - [Question](https://leetcode.com/problems/two-sum/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/1-two-sum.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2019/11/leetcode-solution-of-two-sum-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=qqC9m93ofwI)
 
-- 7.Reverse Integer - [Question](https://leetcode.com/problems/reverse-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/7-reverse-integer.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-reverse-integer-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=cIBwTqjh6VQ)
+- 7.Reverse Integer - [Question](https://leetcode.com/problems/reverse-integer/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/7-reverse-integer.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2019/11/leetcode-solution-of-reverse-integer-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=cIBwTqjh6VQ)
 
-- 9.Palindrome Number - [Question](https://leetcode.com/problems/palindrome-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/9-palindrome-number.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-palindrome-number-in-javascript) | [Youtube Video](https://youtu.be/7lCkkX3UAvU)
+- 9.Palindrome Number - [Question](https://leetcode.com/problems/palindrome-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/9-palindrome-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2019/12/leetcode-solution-of-palindrome-number-in-javascript) | [Youtube Video](https://youtu.be/7lCkkX3UAvU)
 
 - 20.Valid Parentheses - [Question](https://leetcode.com/problems/valid-parentheses/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1-100/20-valid-parentheses.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2019/09/leetcode-solution-of-valid-parentheses-in-javascript) | [Youtube Video](https://youtu.be/OuRH74PiPas)
 
@@ -24,7 +24,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 125.Valid Palindrome - [Question](https://leetcode.com/problems/valid-palindrome/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/125-valid-palindrome.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-valid-palindrome) | [Youtube Video](https://youtu.be/zqQRjBbwRew)
 
-- 167.Two Sum-II - [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/167-two-sum-ii.js) | [Blog](https://rishabh1403.com/leetcode-solution-of-two-sum-ii-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=MjxN8HIzIRc)
+- 167.Two Sum-II - [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/167-two-sum-ii.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2019/12/leetcode-solution-of-two-sum-ii-in-javascript) | [Youtube Video](https://www.youtube.com/watch?v=MjxN8HIzIRc)
 
 - 169.Majority Element - [Question](https://leetcode.com/problems/majority-element/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/169-majority-element.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-majority-element) | [Youtube Video](https://youtu.be/p0vvs4Gq8qY)
 
