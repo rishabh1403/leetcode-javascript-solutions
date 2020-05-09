@@ -1,7 +1,7 @@
 /*
 Author :- Rishabh Jain <contact@rishabh1403.com>
 Solution for :- https://leetcode.com/problems/guess-number-higher-or-lower/
-blog for this code :- https://rishabh1403.com/posts/coding/leetcode/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-guess-number-higher-or-lower
 youtube video :- https://youtu.be/h0uL59Z9Hoc
 */
 

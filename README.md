@@ -28,7 +28,7 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 169.Majority Element - [Question](https://leetcode.com/problems/majority-element/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/169-majority-element.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-majority-element) | [Youtube Video](https://youtu.be/p0vvs4Gq8qY)
 
-- 205.Isomorphic Strings - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 205.Isomorphic Strings - [Question](https://leetcode.com/problems/isomorphic-strings/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/205-isomorphic-strings.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-isomorphic-strings) | [Youtube Video](https://youtu.be/h0O_iPBhxTs)
 
 - 217.Contains Duplicate - [Question](https://leetcode.com/problems/contains-duplicate/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/217-contains-duplicate.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate) | [Youtube Video](https://youtu.be/cuR5uyV8snc)
 
@@ -40,15 +40,15 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 344.Reverse String - [Question](https://leetcode.com/problems/reverse-string/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/344-reverse-string.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-reverse-string) | [Youtube Video](https://youtu.be/8j24rPjGBwU)
 
-- 345.Reverse Vowels of a String - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 345.Reverse Vowels of a String - [Question](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/345-reverse-vowels-of-a-string.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-reverse-vowels-of-a-string) | [Youtube Video](https://youtu.be/5g6iV76aR-E)
 
-- 349.Intersection of Two Arrays - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 349.Intersection of Two Arrays - [Question](https://leetcode.com/problems/intersection-of-two-arrays/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/349-intersection-of-two-arrays.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-intersection-of-two-arrays) | [Youtube Video](https://youtu.be/3OBr0wzEtWE)
 
-- 374.Guess Number Higher or Lower - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 374.Guess Number Higher or Lower - [Question](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/374-guess-number-higher-or-lower.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-guess-number-higher-or-lower) | [Youtube Video](https://youtu.be/h0uL59Z9Hoc)
 
-- 383.Ransom Note - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 383.Ransom Note - [Question](https://leetcode.com/problems/ransom-note/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/383-ransom-note.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/leetcode-ransom-note) | [Youtube Video](https://youtu.be/PkxRhIsvvf8)
 
-- 387.First Unique Character in a String - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 387.First Unique Character in a String - [Question](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/387-first-unique-character-in-a-string.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/first-unique-character-in-a-string/) | [Youtube Video](https://youtu.be/rxVNTwf_zfg)
 
 - 509.Fibonacci Number - [Question](https://leetcode.com/problems/fibonacci-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/501-600/509-fibonacci-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-fibonacci-number) | [Youtube Video](https://youtu.be/iyyhQfO_KKY)
 
@@ -76,4 +76,4 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 1365.How Many Numbers Are Smaller Than the Current Number - [Question](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1365-how-many-numbers-smaller-than-current-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-how-many-numbers-smaller-than-current-number) | [Youtube Video](https://youtu.be/a2RWy9kqOhs)
 
-- 1389.Create Target Array in the Given Order - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+- 1389.Create Target Array in the Given Order - [Question](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1389-create-target-array-in-the-given-order.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/05/create-target-array-in-the-given-order/) | [Youtube Video](https://youtu.be/vZ6VpUJk7CU)
