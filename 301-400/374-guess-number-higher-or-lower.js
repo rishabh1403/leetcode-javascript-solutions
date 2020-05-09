@@ -1,3 +1,10 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/guess-number-higher-or-lower/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/
+youtube video :- https://youtu.be/h0uL59Z9Hoc
+*/
+
 var guessNumber = function (n) {
 
   if (guess(n) === 0) return n

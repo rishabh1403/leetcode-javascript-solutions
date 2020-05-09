@@ -1,7 +1,14 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/reverse-vowels-of-a-string/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/
+youtube video :- https://youtu.be/5g6iV76aR-E
+*/
+
 var reverseVowels = function (s) {
   const arr = s.split("");
 
-  let left = 0, right = arr.length;
+  let left = 0, right = arr.length - 1;
 
   const vowels = ['A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u']
 

@@ -1,3 +1,10 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/ransom-note/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/
+youtube video :- https://youtu.be/PkxRhIsvvf8
+*/
+
 var canConstruct = function (ransomNote, magazine) {
   const map = new Map();
 

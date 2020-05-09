@@ -1,3 +1,10 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/isomorphic-strings/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/
+youtube video :- https://youtu.be/h0O_iPBhxTs
+*/
+
 var isIsomorphic = function (s, t) {
   if (s.length !== t.length) return false;
 

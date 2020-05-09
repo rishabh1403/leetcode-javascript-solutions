@@ -28,6 +28,8 @@ Solutions of all the questions from Leetcode in JavaScript.
 
 - 169.Majority Element - [Question](https://leetcode.com/problems/majority-element/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/101-200/169-majority-element.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-majority-element) | [Youtube Video](https://youtu.be/p0vvs4Gq8qY)
 
+- 205.Isomorphic Strings - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+
 - 217.Contains Duplicate - [Question](https://leetcode.com/problems/contains-duplicate/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/217-contains-duplicate.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate) | [Youtube Video](https://youtu.be/cuR5uyV8snc)
 
 - 219.Contains Duplicate II - [Question](https://leetcode.com/problems/contains-duplicate-ii/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/219-contains-duplicate-ii.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-contains-duplicate-ii) | [Youtube Video](https://youtu.be/O4MF2wBOrTM)
@@ -37,6 +39,16 @@ Solutions of all the questions from Leetcode in JavaScript.
 - 268.Missing Number - [Question](https://leetcode.com/problems/missing-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/201-300/268-missing-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-missing-number) | [Youtube Video](https://youtu.be/I6AUMvi13fc)
 
 - 344.Reverse String - [Question](https://leetcode.com/problems/reverse-string/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/301-400/344-reverse-string.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-reverse-string) | [Youtube Video](https://youtu.be/8j24rPjGBwU)
+
+- 345.Reverse Vowels of a String - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+
+- 349.Intersection of Two Arrays - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+
+- 374.Guess Number Higher or Lower - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+
+- 383.Ransom Note - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
+
+- 387.First Unique Character in a String - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()
 
 - 509.Fibonacci Number - [Question](https://leetcode.com/problems/fibonacci-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/501-600/509-fibonacci-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/04/leetcode-fibonacci-number) | [Youtube Video](https://youtu.be/iyyhQfO_KKY)
 
@@ -63,3 +75,5 @@ Solutions of all the questions from Leetcode in JavaScript.
 - 1342.Number of Steps to Reduce a Number to Zero - [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1342-reduce-numer-to-zero.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-number-of-steps-to-reduce-a-number-to-zero) | [Youtube Video](https://www.youtube.com/watch?v=sQYhrMf1VMc)
 
 - 1365.How Many Numbers Are Smaller Than the Current Number - [Question](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Source Code](https://github.com/rishabh1403/leetcode-javascript-solutions/blob/master/1301-1400/1365-how-many-numbers-smaller-than-current-number.js) | [Blog](https://rishabh1403.com/posts/coding/leetcode/2020/03/leetcode-how-many-numbers-smaller-than-current-number) | [Youtube Video](https://youtu.be/a2RWy9kqOhs)
+
+- 1389.Create Target Array in the Given Order - [Question]() | [Source Code]() | [Blog]() | [Youtube Video]()

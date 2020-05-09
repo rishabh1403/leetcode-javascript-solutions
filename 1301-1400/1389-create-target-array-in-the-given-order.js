@@ -1,3 +1,10 @@
+/*
+Author :- Rishabh Jain <contact@rishabh1403.com>
+Solution for :- https://leetcode.com/problems/create-target-array-in-the-given-order/
+blog for this code :- https://rishabh1403.com/posts/coding/leetcode/
+youtube video :- https://youtu.be/vZ6VpUJk7CU
+*/
+
 var createTargetArray = function(nums, index) {
     
   return index.reduce((acc,el,idx) => {
